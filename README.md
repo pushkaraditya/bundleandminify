@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <article>
 Getting used of bundling and minification project
 =================================================
